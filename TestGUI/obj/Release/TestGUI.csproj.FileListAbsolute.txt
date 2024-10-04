@@ -1,0 +1,61 @@
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Release\TestGUI.exe.config
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Release\TestGUI.exe
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Release\TestGUI.pdb
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Release\BinhORM.dll
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Release\TestDAO.dll
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Release\BinhORM.pdb
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Release\TestDAO.pdb
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Release\ResolveAssemblyReference.cache
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Release\TestGUI.DetailForm.resources
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Release\TestGUI.Form1.resources
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Release\TestGUI.Properties.Resources.resources
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Release\TestGUI.csproj.GenerateResource.Cache
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Release\TestGUI.exe
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Release\TestGUI.pdb
+F:\MyProjects\BinhORM\TestGUI\bin\Release\TestGUI.exe.config
+F:\MyProjects\BinhORM\TestGUI\obj\Release\TestGUI.exe
+F:\MyProjects\BinhORM\TestGUI\obj\Release\TestGUI.pdb
+F:\MyProjects\BinhORM\TestGUI\bin\Release\TestGUI.exe
+F:\MyProjects\BinhORM\TestGUI\bin\Release\TestGUI.pdb
+F:\MyProjects\BinhORM\TestGUI\bin\Release\BinhORM.dll
+F:\MyProjects\BinhORM\TestGUI\bin\Release\TestDAO.dll
+F:\MyProjects\BinhORM\TestGUI\bin\Release\MySql.Data.dll
+F:\MyProjects\BinhORM\TestGUI\bin\Release\BinhORM.pdb
+F:\MyProjects\BinhORM\TestGUI\bin\Release\TestDAO.pdb
+F:\MyProjects\BinhORM\TestGUI\obj\Release\ResolveAssemblyReference.cache
+F:\MyProjects\BinhORM\TestGUI\obj\Release\TestGUI.DetailForm.resources
+F:\MyProjects\BinhORM\TestGUI\obj\Release\TestGUI.Form1.resources
+F:\MyProjects\BinhORM\TestGUI\obj\Release\TestGUI.Properties.Resources.resources
+F:\MyProjects\BinhORM\TestGUI\obj\Release\TestGUI.csproj.GenerateResource.Cache
+G:\My projects\BinhORM\TestGUI\bin\Release\TestGUI.exe.config
+G:\My projects\BinhORM\TestGUI\obj\Release\TestGUI.exe
+G:\My projects\BinhORM\TestGUI\obj\Release\TestGUI.pdb
+G:\My projects\BinhORM\TestGUI\bin\Release\TestGUI.exe
+G:\My projects\BinhORM\TestGUI\bin\Release\TestGUI.pdb
+G:\My projects\BinhORM\TestGUI\bin\Release\BinhORM.dll
+G:\My projects\BinhORM\TestGUI\bin\Release\TestDAO.dll
+G:\My projects\BinhORM\TestGUI\bin\Release\MySql.Data.dll
+G:\My projects\BinhORM\TestGUI\bin\Release\BinhORM.pdb
+G:\My projects\BinhORM\TestGUI\bin\Release\TestDAO.pdb
+G:\My projects\BinhORM\TestGUI\obj\Release\ResolveAssemblyReference.cache
+G:\My projects\BinhORM\TestGUI\obj\Release\TestGUI.DetailForm.resources
+G:\My projects\BinhORM\TestGUI\obj\Release\TestGUI.Form1.resources
+G:\My projects\BinhORM\TestGUI\obj\Release\TestGUI.Properties.Resources.resources
+G:\My projects\BinhORM\TestGUI\obj\Release\GenerateResource-ResGen.read.1.tlog
+G:\My projects\BinhORM\TestGUI\obj\Release\GenerateResource-ResGen.write.1.tlog
+G:\BinhORM\TestGUI\obj\Release\ResolveAssemblyReference.cache
+G:\BinhORM\TestGUI\obj\Release\TestGUI.DetailForm.resources
+G:\BinhORM\TestGUI\obj\Release\TestGUI.Form1.resources
+G:\BinhORM\TestGUI\obj\Release\TestGUI.Properties.Resources.resources
+G:\BinhORM\TestGUI\obj\Release\GenerateResource-ResGen.read.1.tlog
+G:\BinhORM\TestGUI\obj\Release\GenerateResource-ResGen.write.1.tlog
+G:\BinhORM\TestGUI\obj\Release\TestGUI.exe
+G:\BinhORM\TestGUI\obj\Release\TestGUI.pdb
+G:\BinhORM\TestGUI\bin\Release\TestGUI.exe.config
+G:\BinhORM\TestGUI\bin\Release\TestGUI.exe
+G:\BinhORM\TestGUI\bin\Release\TestGUI.pdb
+G:\BinhORM\TestGUI\bin\Release\BinhORM.dll
+G:\BinhORM\TestGUI\bin\Release\TestDAO.dll
+G:\BinhORM\TestGUI\bin\Release\MySql.Data.dll
+G:\BinhORM\TestGUI\bin\Release\BinhORM.pdb
+G:\BinhORM\TestGUI\bin\Release\TestDAO.pdb

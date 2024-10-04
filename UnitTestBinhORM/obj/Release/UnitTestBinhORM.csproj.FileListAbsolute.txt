@@ -1,0 +1,24 @@
+G:\My projects\TestBinhORM\bin\Release\TestBinhORM.dll.config
+G:\My projects\TestBinhORM\bin\Release\TestBinhORM.dll
+G:\My projects\TestBinhORM\bin\Release\TestBinhORM.pdb
+G:\My projects\TestBinhORM\bin\Release\BinhORM.dll
+G:\My projects\TestBinhORM\bin\Release\BinhORM.pdb
+G:\My projects\TestBinhORM\obj\Release\ResolveAssemblyReference.cache
+G:\My projects\TestBinhORM\obj\Release\TestBinhORM.dll
+G:\My projects\TestBinhORM\obj\Release\TestBinhORM.pdb
+G:\My projects\BinhORM\UnitTestBinhORM\bin\Release\TestBinhORM.dll.config
+G:\My projects\BinhORM\UnitTestBinhORM\bin\Release\TestBinhORM.dll
+G:\My projects\BinhORM\UnitTestBinhORM\bin\Release\TestBinhORM.pdb
+G:\My projects\BinhORM\UnitTestBinhORM\bin\Release\BinhORM.dll
+G:\My projects\BinhORM\UnitTestBinhORM\bin\Release\BinhORM.pdb
+G:\My projects\BinhORM\UnitTestBinhORM\obj\Release\ResolveAssemblyReference.cache
+G:\My projects\BinhORM\UnitTestBinhORM\obj\Release\TestBinhORM.dll
+G:\My projects\BinhORM\UnitTestBinhORM\obj\Release\TestBinhORM.pdb
+G:\BinhORM\UnitTestBinhORM\obj\Release\ResolveAssemblyReference.cache
+G:\BinhORM\UnitTestBinhORM\obj\Release\TestBinhORM.pdb
+G:\BinhORM\UnitTestBinhORM\bin\Release\TestBinhORM.dll.config
+G:\BinhORM\UnitTestBinhORM\bin\Release\TestBinhORM.dll
+G:\BinhORM\UnitTestBinhORM\bin\Release\TestBinhORM.pdb
+G:\BinhORM\UnitTestBinhORM\bin\Release\BinhORM.dll
+G:\BinhORM\UnitTestBinhORM\bin\Release\BinhORM.pdb
+G:\BinhORM\UnitTestBinhORM\obj\Release\TestBinhORM.dll

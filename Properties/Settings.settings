@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SystemFramework.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Connection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Provider=SQLOLEDB; server={0}; uid={1}; pwd={2}; Database=TestFramework</Value>
+    </Setting>
+    <Setting Name="DataProvider" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">System.Data.OleDb.OleDbConnection,System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Value>
+    </Setting>
+    <Setting Name="UserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">binh</Value>
+    </Setting>
+    <Setting Name="DbServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\sqlexpress</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,8 @@
+G:\My projects\TestBinhORM\obj\Release\ResolveAssemblyReference.cache
+G:\My projects\TestBinhORM\bin\Release\TestBinhORM.dll.config
+G:\My projects\TestBinhORM\bin\Release\TestBinhORM.dll
+G:\My projects\TestBinhORM\bin\Release\TestBinhORM.pdb
+G:\My projects\TestBinhORM\bin\Release\BinhORM.dll
+G:\My projects\TestBinhORM\bin\Release\BinhORM.pdb
+G:\My projects\TestBinhORM\obj\Release\TestBinhORM.dll
+G:\My projects\TestBinhORM\obj\Release\TestBinhORM.pdb

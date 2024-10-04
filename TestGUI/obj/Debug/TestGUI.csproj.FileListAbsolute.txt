@@ -1,0 +1,68 @@
+F:\My projects\SystemFramework\TestGUI\obj\Debug\TestGUI.exe
+F:\My projects\SystemFramework\TestGUI\obj\Debug\TestGUI.pdb
+F:\My projects\SystemFramework\TestGUI\bin\Debug\TestGUI.exe
+F:\My projects\SystemFramework\TestGUI\bin\Debug\TestGUI.pdb
+F:\My projects\SystemFramework\TestGUI\bin\Debug\SystemFramework.dll
+F:\My projects\SystemFramework\TestGUI\bin\Debug\TestDAO.dll
+F:\My projects\SystemFramework\TestGUI\bin\Debug\SystemFramework.pdb
+F:\My projects\SystemFramework\TestGUI\bin\Debug\TestDAO.pdb
+F:\My projects\SystemFramework\TestGUI\obj\Debug\ResolveAssemblyReference.cache
+F:\My projects\SystemFramework\TestGUI\obj\Debug\TestGUI.DetailForm.resources
+F:\My projects\SystemFramework\TestGUI\obj\Debug\TestGUI.Form1.resources
+F:\My projects\SystemFramework\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+F:\My projects\SystemFramework\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.Cache
+F:\MyProjects\SystemFramework\TestGUI\obj\Debug\TestGUI.exe
+F:\MyProjects\SystemFramework\TestGUI\obj\Debug\TestGUI.pdb
+F:\MyProjects\SystemFramework\TestGUI\bin\Debug\TestGUI.exe
+F:\MyProjects\SystemFramework\TestGUI\bin\Debug\TestGUI.pdb
+F:\MyProjects\SystemFramework\TestGUI\bin\Debug\SystemFramework.dll
+F:\MyProjects\SystemFramework\TestGUI\bin\Debug\TestDAO.dll
+F:\MyProjects\SystemFramework\TestGUI\bin\Debug\SystemFramework.pdb
+F:\MyProjects\SystemFramework\TestGUI\bin\Debug\TestDAO.pdb
+F:\MyProjects\SystemFramework\TestGUI\obj\Debug\ResolveAssemblyReference.cache
+F:\MyProjects\SystemFramework\TestGUI\obj\Debug\TestGUI.DetailForm.resources
+F:\MyProjects\SystemFramework\TestGUI\obj\Debug\TestGUI.Form1.resources
+F:\MyProjects\SystemFramework\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+F:\MyProjects\SystemFramework\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.Cache
+F:\My projects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.exe
+F:\My projects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.pdb
+F:\My projects\WebSystemFramework\TestGUI\bin\Debug\TestGUI.exe
+F:\My projects\WebSystemFramework\TestGUI\bin\Debug\TestGUI.pdb
+F:\My projects\WebSystemFramework\TestGUI\bin\Debug\SystemFramework.dll
+F:\My projects\WebSystemFramework\TestGUI\bin\Debug\TestDAO.dll
+F:\My projects\WebSystemFramework\TestGUI\bin\Debug\SystemFramework.pdb
+F:\My projects\WebSystemFramework\TestGUI\bin\Debug\TestDAO.pdb
+F:\My projects\WebSystemFramework\TestGUI\obj\Debug\ResolveAssemblyReference.cache
+F:\My projects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.DetailForm.resources
+F:\My projects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.Form1.resources
+F:\My projects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+F:\My projects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.Cache
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Debug\TestGUI.exe.config
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Debug\TestGUI.exe
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Debug\TestGUI.pdb
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Debug\BinhORM.dll
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Debug\TestDAO.dll
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Debug\BinhORM.pdb
+F:\MyProjects\WebSystemFramework\TestGUI\bin\Debug\TestDAO.pdb
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Debug\ResolveAssemblyReference.cache
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.DetailForm.resources
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.Form1.resources
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.Cache
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.exe
+F:\MyProjects\WebSystemFramework\TestGUI\obj\Debug\TestGUI.pdb
+F:\MyProjects\BinhORM\TestGUI\bin\Debug\TestGUI.exe.config
+F:\MyProjects\BinhORM\TestGUI\bin\Debug\TestGUI.exe
+F:\MyProjects\BinhORM\TestGUI\bin\Debug\TestGUI.pdb
+F:\MyProjects\BinhORM\TestGUI\bin\Debug\BinhORM.dll
+F:\MyProjects\BinhORM\TestGUI\bin\Debug\TestDAO.dll
+F:\MyProjects\BinhORM\TestGUI\bin\Debug\MySql.Data.dll
+F:\MyProjects\BinhORM\TestGUI\bin\Debug\BinhORM.pdb
+F:\MyProjects\BinhORM\TestGUI\bin\Debug\TestDAO.pdb
+F:\MyProjects\BinhORM\TestGUI\obj\Debug\ResolveAssemblyReference.cache
+F:\MyProjects\BinhORM\TestGUI\obj\Debug\TestGUI.DetailForm.resources
+F:\MyProjects\BinhORM\TestGUI\obj\Debug\TestGUI.Form1.resources
+F:\MyProjects\BinhORM\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+F:\MyProjects\BinhORM\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.Cache
+F:\MyProjects\BinhORM\TestGUI\obj\Debug\TestGUI.exe
+F:\MyProjects\BinhORM\TestGUI\obj\Debug\TestGUI.pdb

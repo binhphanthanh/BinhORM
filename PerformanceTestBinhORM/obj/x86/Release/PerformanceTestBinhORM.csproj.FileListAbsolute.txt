@@ -1,0 +1,39 @@
+G:\My projects\PerformanceTestBinhORM\obj\x86\Release\ResolveAssemblyReference.cache
+G:\My projects\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.Form1.resources
+G:\My projects\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.Properties.Resources.resources
+G:\My projects\PerformanceTestBinhORM\obj\x86\Release\GenerateResource.read.1.tlog
+G:\My projects\PerformanceTestBinhORM\obj\x86\Release\GenerateResource.write.1.tlog
+G:\My projects\PerformanceTestBinhORM\bin\Release\PerformanceTestBinhORM.exe
+G:\My projects\PerformanceTestBinhORM\bin\Release\PerformanceTestBinhORM.pdb
+G:\My projects\PerformanceTestBinhORM\bin\Release\BinhORM.dll
+G:\My projects\PerformanceTestBinhORM\bin\Release\MySql.Data.dll
+G:\My projects\PerformanceTestBinhORM\bin\Release\BinhORM.pdb
+G:\My projects\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.exe
+G:\My projects\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.pdb
+G:\My projects\PerformanceTestBinhORM\bin\Release\PerformanceTestBinhORM.exe.config
+G:\My projects\BinhORM\PerformanceTestBinhORM\bin\Release\PerformanceTestBinhORM.exe.config
+G:\My projects\BinhORM\PerformanceTestBinhORM\bin\Release\PerformanceTestBinhORM.exe
+G:\My projects\BinhORM\PerformanceTestBinhORM\bin\Release\PerformanceTestBinhORM.pdb
+G:\My projects\BinhORM\PerformanceTestBinhORM\bin\Release\BinhORM.dll
+G:\My projects\BinhORM\PerformanceTestBinhORM\bin\Release\MySql.Data.dll
+G:\My projects\BinhORM\PerformanceTestBinhORM\bin\Release\BinhORM.pdb
+G:\My projects\BinhORM\PerformanceTestBinhORM\obj\x86\Release\ResolveAssemblyReference.cache
+G:\My projects\BinhORM\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.Form1.resources
+G:\My projects\BinhORM\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.Properties.Resources.resources
+G:\My projects\BinhORM\PerformanceTestBinhORM\obj\x86\Release\GenerateResource.read.1.tlog
+G:\My projects\BinhORM\PerformanceTestBinhORM\obj\x86\Release\GenerateResource.write.1.tlog
+G:\My projects\BinhORM\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.exe
+G:\My projects\BinhORM\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.pdb
+G:\BinhORM\PerformanceTestBinhORM\obj\x86\Release\ResolveAssemblyReference.cache
+G:\BinhORM\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.Form1.resources
+G:\BinhORM\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.Properties.Resources.resources
+G:\BinhORM\PerformanceTestBinhORM\obj\x86\Release\GenerateResource.read.1.tlog
+G:\BinhORM\PerformanceTestBinhORM\obj\x86\Release\GenerateResource.write.1.tlog
+G:\BinhORM\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.pdb
+G:\BinhORM\PerformanceTestBinhORM\bin\Release\PerformanceTestBinhORM.exe.config
+G:\BinhORM\PerformanceTestBinhORM\bin\Release\PerformanceTestBinhORM.exe
+G:\BinhORM\PerformanceTestBinhORM\bin\Release\PerformanceTestBinhORM.pdb
+G:\BinhORM\PerformanceTestBinhORM\bin\Release\BinhORM.dll
+G:\BinhORM\PerformanceTestBinhORM\bin\Release\MySql.Data.dll
+G:\BinhORM\PerformanceTestBinhORM\bin\Release\BinhORM.pdb
+G:\BinhORM\PerformanceTestBinhORM\obj\x86\Release\PerformanceTestBinhORM.exe

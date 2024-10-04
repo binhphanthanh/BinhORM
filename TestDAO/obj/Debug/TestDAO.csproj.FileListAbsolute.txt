@@ -1,0 +1,36 @@
+F:\My projects\SystemFramework\TestDAO\bin\Debug\TestDAO.dll
+F:\My projects\SystemFramework\TestDAO\bin\Debug\TestDAO.pdb
+F:\My projects\SystemFramework\TestDAO\bin\Debug\SystemFramework.dll
+F:\My projects\SystemFramework\TestDAO\bin\Debug\SystemFramework.pdb
+F:\My projects\SystemFramework\TestDAO\obj\Debug\ResolveAssemblyReference.cache
+F:\My projects\SystemFramework\TestDAO\obj\Debug\TestDAO.dll
+F:\My projects\SystemFramework\TestDAO\obj\Debug\TestDAO.pdb
+F:\MyProjects\SystemFramework\TestDAO\bin\Debug\TestDAO.dll
+F:\MyProjects\SystemFramework\TestDAO\bin\Debug\TestDAO.pdb
+F:\MyProjects\SystemFramework\TestDAO\bin\Debug\SystemFramework.dll
+F:\MyProjects\SystemFramework\TestDAO\bin\Debug\SystemFramework.pdb
+F:\MyProjects\SystemFramework\TestDAO\obj\Debug\ResolveAssemblyReference.cache
+F:\MyProjects\SystemFramework\TestDAO\obj\Debug\TestDAO.dll
+F:\MyProjects\SystemFramework\TestDAO\obj\Debug\TestDAO.pdb
+F:\My projects\WebSystemFramework\TestDAO\bin\Debug\TestDAO.dll
+F:\My projects\WebSystemFramework\TestDAO\bin\Debug\TestDAO.pdb
+F:\My projects\WebSystemFramework\TestDAO\bin\Debug\SystemFramework.dll
+F:\My projects\WebSystemFramework\TestDAO\bin\Debug\SystemFramework.pdb
+F:\My projects\WebSystemFramework\TestDAO\obj\Debug\ResolveAssemblyReference.cache
+F:\My projects\WebSystemFramework\TestDAO\obj\Debug\TestDAO.dll
+F:\My projects\WebSystemFramework\TestDAO\obj\Debug\TestDAO.pdb
+F:\MyProjects\WebSystemFramework\TestDAO\bin\Debug\TestDAO.dll
+F:\MyProjects\WebSystemFramework\TestDAO\bin\Debug\TestDAO.pdb
+F:\MyProjects\WebSystemFramework\TestDAO\bin\Debug\BinhORM.dll
+F:\MyProjects\WebSystemFramework\TestDAO\bin\Debug\BinhORM.pdb
+F:\MyProjects\WebSystemFramework\TestDAO\obj\Debug\ResolveAssemblyReference.cache
+F:\MyProjects\WebSystemFramework\TestDAO\obj\Debug\TestDAO.dll
+F:\MyProjects\WebSystemFramework\TestDAO\obj\Debug\TestDAO.pdb
+F:\MyProjects\BinhORM\TestDAO\bin\Debug\TestDAO.dll
+F:\MyProjects\BinhORM\TestDAO\bin\Debug\TestDAO.pdb
+F:\MyProjects\BinhORM\TestDAO\bin\Debug\BinhORM.dll
+F:\MyProjects\BinhORM\TestDAO\bin\Debug\MySql.Data.dll
+F:\MyProjects\BinhORM\TestDAO\bin\Debug\BinhORM.pdb
+F:\MyProjects\BinhORM\TestDAO\obj\Debug\ResolveAssemblyReference.cache
+F:\MyProjects\BinhORM\TestDAO\obj\Debug\TestDAO.dll
+F:\MyProjects\BinhORM\TestDAO\obj\Debug\TestDAO.pdb

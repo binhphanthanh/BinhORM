@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TestGUI.Form1.resources
+obj\Debug\TestGUI.Properties.Resources.resources
+obj\Debug\TestGUI.csproj.GenerateResource.Cache
+bin\Debug\TestGUI.exe
+bin\Debug\TestGUI.pdb
+bin\Debug\TestDAO.dll
+bin\Debug\TestDAO.pdb
+obj\Debug\TestGUI.exe
+obj\Debug\TestGUI.pdb
+obj\Debug\TestGUI.DetailForm.resources
+bin\Debug\BinhORM.dll
+bin\Debug\BinhORM.pdb
+bin\Debug\TestGUI.exe.config

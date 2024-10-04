@@ -1,0 +1,31 @@
+F:\MyProjects\WebSystemFramework\TestDAO\bin\Release\TestDAO.dll
+F:\MyProjects\WebSystemFramework\TestDAO\bin\Release\TestDAO.pdb
+F:\MyProjects\WebSystemFramework\TestDAO\bin\Release\BinhORM.dll
+F:\MyProjects\WebSystemFramework\TestDAO\bin\Release\BinhORM.pdb
+F:\MyProjects\WebSystemFramework\TestDAO\obj\Release\ResolveAssemblyReference.cache
+F:\MyProjects\WebSystemFramework\TestDAO\obj\Release\TestDAO.dll
+F:\MyProjects\WebSystemFramework\TestDAO\obj\Release\TestDAO.pdb
+F:\MyProjects\BinhORM\TestDAO\bin\Release\TestDAO.dll
+F:\MyProjects\BinhORM\TestDAO\bin\Release\TestDAO.pdb
+F:\MyProjects\BinhORM\TestDAO\bin\Release\BinhORM.dll
+F:\MyProjects\BinhORM\TestDAO\bin\Release\MySql.Data.dll
+F:\MyProjects\BinhORM\TestDAO\bin\Release\BinhORM.pdb
+F:\MyProjects\BinhORM\TestDAO\obj\Release\ResolveAssemblyReference.cache
+F:\MyProjects\BinhORM\TestDAO\obj\Release\TestDAO.dll
+F:\MyProjects\BinhORM\TestDAO\obj\Release\TestDAO.pdb
+G:\My projects\BinhORM\TestDAO\bin\Release\TestDAO.dll
+G:\My projects\BinhORM\TestDAO\bin\Release\TestDAO.pdb
+G:\My projects\BinhORM\TestDAO\bin\Release\BinhORM.dll
+G:\My projects\BinhORM\TestDAO\bin\Release\MySql.Data.dll
+G:\My projects\BinhORM\TestDAO\bin\Release\BinhORM.pdb
+G:\My projects\BinhORM\TestDAO\obj\Release\ResolveAssemblyReference.cache
+G:\My projects\BinhORM\TestDAO\obj\Release\TestDAO.dll
+G:\My projects\BinhORM\TestDAO\obj\Release\TestDAO.pdb
+G:\BinhORM\TestDAO\obj\Release\ResolveAssemblyReference.cache
+G:\BinhORM\TestDAO\obj\Release\TestDAO.dll
+G:\BinhORM\TestDAO\obj\Release\TestDAO.pdb
+G:\BinhORM\TestDAO\bin\Release\TestDAO.dll
+G:\BinhORM\TestDAO\bin\Release\TestDAO.pdb
+G:\BinhORM\TestDAO\bin\Release\BinhORM.dll
+G:\BinhORM\TestDAO\bin\Release\MySql.Data.dll
+G:\BinhORM\TestDAO\bin\Release\BinhORM.pdb
